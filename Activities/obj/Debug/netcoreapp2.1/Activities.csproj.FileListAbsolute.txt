@@ -1,0 +1,14 @@
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\bin\Debug\netcoreapp2.1\Activities.deps.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\bin\Debug\netcoreapp2.1\Activities.runtimeconfig.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\bin\Debug\netcoreapp2.1\Activities.runtimeconfig.dev.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\bin\Debug\netcoreapp2.1\Activities.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.csprojAssemblyReference.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.csproj.CoreCompileInputs.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.RazorAssemblyInfo.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.RazorAssemblyInfo.cs
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.AssemblyInfoInputs.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.AssemblyInfo.cs
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.RazorTargetAssemblyInfo.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\bin\Debug\netcoreapp2.1\Activities.pdb
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\Activities\obj\Debug\netcoreapp2.1\Activities.pdb
