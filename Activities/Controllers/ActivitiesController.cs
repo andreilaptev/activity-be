@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Activities.Data;
+using Activities.Interfaces;
 using Activities.Models;
 
 namespace Activities.Controllers
@@ -14,42 +15,20 @@ namespace Activities.Controllers
     [ApiController]
     public class ActivitiesController : ControllerBase
     {
-        private readonly ActivitiesContext _context;
+        private readonly IActivitiesRepository _context;
 
         public ActivitiesController(ActivitiesContext context)
         {
             _context = context;
         }
 
+
         // GET: api/Activities
         [HttpGet]
-        public IEnumerable<Activity> GetActivity()
+        public IEnumerable<Activity> GetActivities()
         {
-            return _context.Activity;
+            return _context.GetActivities();
         }
 
-        // GET: api/Activities/5
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetActivity([FromRoute] int id)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
-            var activity = await _context.Activity.FindAsync(id);
-
-            if (activity == null)
-            {
-                return NotFound();
-            }
-
-            return Ok(activity);
-        }
-
-        private bool ActivityExists(int id)
-        {
-            return _context.Activity.Any(e => e.Id == id);
-        }
     }
 }

@@ -1,0 +1,17 @@
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\ActivitiesUnitTestProject.deps.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\ActivitiesUnitTestProject.runtimeconfig.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\ActivitiesUnitTestProject.runtimeconfig.dev.json
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\ActivitiesUnitTestProject.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\Activities.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\Activities.pdb
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.csprojAssemblyReference.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.AssemblyInfoInputs.cache
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.AssemblyInfo.cs
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.csproj.CopyComplete
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\bin\Debug\netcoreapp2.1\ActivitiesUnitTestProject.pdb
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.dll
+C:\Canada\New Jobs Applied\OCAS\ActivitySignUp-BE\Activities\ActivitiesUnitTestProject\obj\Debug\netcoreapp2.1\ActivitiesUnitTestProject.pdb
