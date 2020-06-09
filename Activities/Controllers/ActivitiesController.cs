@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Activities.Data;
-using ActivitySignUp.Models;
+using Activities.Models;
 
 namespace Activities.Controllers
 {
